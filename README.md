@@ -60,7 +60,7 @@ ax.set_xlabel("Stems")
 plt.show()
 ```
 
-![png](https://github.com/bkiselgof/TextAnalytics/blob/master/output_7_0.png)
+![png](output_7_0.png)
 
 ## Contributing
 
